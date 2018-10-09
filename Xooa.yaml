@@ -1,0 +1,7 @@
+Apps:
+  Xooa-Private-Store:
+    Name: Private
+    Description: Xooa Get Set Smart Contract
+    path: /chaincode/marbles02_private/go
+    language: go
+    README: https://github.com/sandeepxooa/xooa-get-set/blob/master/README.md
